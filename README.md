@@ -43,15 +43,15 @@ https://www.earthdatascience.org/courses/use-data-open-source-python/use-time-se
 
 |Date                       | Lecture                             |Instructor  |Moderator   |
 |---------------------------|-------------------------------------|------------|------------|
-|2024-01-22 9:00-12:00 Mon  | Intro to climate modelling          | Y Plancherel        | GTA         |
-|2024-01-22 14:00-17:00 Mon | Intro to climate modelling (cont)   | Y Plancherel        | GTA         |
-|2024-01-23 9:00-12:00 Tue  | Working with climate data I         | Y Plancherel        | GTA         |
-|2024-01-23 14:00-17:00 Tue | Working with climate data II        | Y Plancherel        | GTA         |
-|2024-01-24 9:00-12:00 Wed  | Temporal data; time series analysis | Y Plancherel        | GTA         |
-|2024-01-24 14:00-17:00 Wed | Free                                | Y Plancherel        | GTA         |
-|2024-01-25 9:00-12:00 Thu  | Spatial data; geostatistics         | Y Plancherel        | GTA         |
-|2024-01-25 14:00-17:00 Thu | Practical 'Winery project'      | Y Plancherel        | GTA         |
-|2024-01-26 9:00-12:00 Fri  | self-study        |         |             |
+|2025-01-06 9:00-12:00 Mon  | Intro to climate modelling          | Y Plancherel        | GTA         |
+|2025-01-06 14:00-17:00 Mon | Intro to climate modelling (cont)   | Y Plancherel        | GTA         |
+|2025-01-07 9:00-12:00 Tue  | Working with climate data I         | Y Plancherel        | GTA         |
+|2025-01-07 14:00-17:00 Tue | Working with climate data II        | Y Plancherel        | GTA         |
+|2025-01-08 9:00-12:00 Wed  | Temporal data; time series analysis | Y Plancherel        | GTA         |
+|2025-01-08 14:00-17:00 Wed | Free                                | Y Plancherel        | GTA         |
+|2025-01-09 9:00-12:00 Thu  | Spatial data; geostatistics         | Y Plancherel        | GTA         |
+|2025-01-09 14:00-17:00 Thu | Practical 'Winery project'          | Y Plancherel        | GTA         |
+|2025-01-10 9:00-12:00 Fri  | self-study        |         |             |
 
 ## Assessment exercises
 Assessment will be 100% by coursework/quiz. It is open book but absoluetly forbids use of any AI tools or internet resources. 
