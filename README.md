@@ -60,5 +60,5 @@ Questions will be distributed and submitted via GitHub Classroom on Friday.
 
 |Release Date         | Due Date            | Topic                             |
 |---------------------|---------------------|-----------------------------------|
-|2024-01-24 Fri 14:00 | 2024-01-26 16:00 Fri| Assessment, Environmental data weeks 1,2,3         |
+|2025-01-24 Fri 14:00 | 2024-01-26 16:00 Fri| Assessment, Environmental data weeks 1,2,3         |
 
