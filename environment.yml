@@ -1,0 +1,20 @@
+name: environmental-data
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+- pip:
+  - -r requirements.txt
+- numpy
+- pandas
+- matplotlib
+- plotly
+- cdsapi>=0.7.2
+- xarray
+- jupyter
+- statsmodels
+- cfunits
+- udunits2>=2.2.25
+- netCDF4
+- cartopy
+- pip

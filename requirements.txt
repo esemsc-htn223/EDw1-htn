@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+plotly
+cdsapi>=0.7.2
+xarray
+jupyter
+statsmodels
+cfunits
+netCDF4
+cartopy
